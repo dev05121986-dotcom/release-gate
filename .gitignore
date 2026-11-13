@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+/artifacts/
+# Local tools, credentials and editor state
+/.agents/
+/.codex/
+/.aws/
+/.idea/
+/.vscode/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.cast
+review.diff
+.DS_Store
+*~
+*.swp

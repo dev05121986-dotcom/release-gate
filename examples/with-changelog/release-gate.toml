@@ -1,0 +1,7 @@
+schema_version = 1
+
+[checklist]
+readme = "README.md"
+changelog = "CHANGELOG.md"
+license = "LICENSE"
+junit = "artifacts/junit.xml"
